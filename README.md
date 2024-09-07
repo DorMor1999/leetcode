@@ -22,7 +22,7 @@ Here is a list of problems and their respective solutions:
   - [Explanation and Overview](problems/1.%20Two%20Sum/README.md)
   - [Python Solution (Hash Map)](problems/1.%20Two%20Sum/two_sum_solution_hash_map.py)
 
-Feel free to browse through the solutions to find the problem you're interested in. Each solution is contained in its own markdown file within the `solutions` directory.
+Feel free to browse through the solutions to find the problem you're interested in. Each solution is contained in its own markdown file within the `problems` directory.
 
 ## How to Use
 

@@ -30,7 +30,7 @@ Feel free to browse through the solutions to find the problem you're interested 
     ```bash
     git clone https://github.com/DorMor1999/leetcode
     ```
-2. Navigate to the `solutions` directory to view the solutions and explanations.
+2. Navigate to the `problems` directory to view the solutions and explanations.
 3. Open the markdown files to read the detailed explanations and code.
 
 ## Contributing

@@ -20,7 +20,10 @@ Here is a list of problems and their respective solutions:
 
 - **Problem 1: Two Sum**
   - [Explanation and Overview](problems/1.%20Two%20Sum/README.md)
-  - [Python Solution (Hash Map)](problems/1.%20Two%20Sum/two_sum_solution_hash_map.py)
+  - [Python Solution](problems/1.%20Two%20Sum/two_sum_solution_hash_map.py)
+- **Problem 2: Add Two Numbers**
+  - [Explanation and Overview](problems/2.%20Add%20Two%20Numbers/README.md)
+  - [Python Solution](problems/2.%20Add%20Two%20Numbers/my_solution.py)
 
 Feel free to browse through the solutions to find the problem you're interested in. Each solution is contained in its own markdown file within the `problems` directory.
 

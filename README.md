@@ -24,6 +24,9 @@ Here is a list of problems and their respective solutions:
 - **Problem 2: Add Two Numbers**
   - [Explanation and Overview](problems/2.%20Add%20Two%20Numbers/README.md)
   - [Python Solution](problems/2.%20Add%20Two%20Numbers/my_solution.py)
+- **Problem 3: Longest Substring Without Repeating Characters**
+  - [Explanation and Overview](problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters/README.md)
+  - [Python Solution](problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters/my_solution.py)
 
 Feel free to browse through the solutions to find the problem you're interested in. Each solution is contained in its own markdown file within the `problems` directory.
 
